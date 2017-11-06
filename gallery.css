@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+.parallax-container {
+    height: 500px;
+    margin: 3em;
+    
+
+  }
+      
+  .nav-wrapper{
+    background-color: black;
+}
+
+.brand-logo{
+    font-family: 'Kaushan Script';
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+
+.nav-wrapper{
+    background-color: black;
+}
+
+.brand-logo{
+    font-family: 'Kaushan Script';
+
+}
+.header{
+    color: black;
+}
+
+.form{
+    color: white;
+    background-color: red;
+}
+.formbox{
+    background-color: black;
+    color: white;
+    margin-top: 0%;
+}

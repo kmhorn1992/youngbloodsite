@@ -1,0 +1,47 @@
+a{
+    overflow: hidden;
+}
+button{
+    
+    position: absolute;
+    border: 8px solid white;
+    color: white;
+    width:20%;
+    height: 20%;
+    font-size: 40px;
+    font-family: 'Amatic SC';
+    background-color: transparent;
+    
+   margin-top: 7em;
+   margin-left:13em;
+
+}
+ a{
+     color: white;
+ }
+
+body{
+    padding:0;
+    margin:0;
+   }
+
+
+
+
+   #slideshow {
+       display:block; 
+       position: static;
+       width: 100% ;
+       
+   }
+   #slideshow > div > img{
+       display:block;
+       width:100%;
+       max-width:100%;
+       position: static; 
+   }
+   #slideshow > div { 
+    position: static; 
+   }
+   
+   
